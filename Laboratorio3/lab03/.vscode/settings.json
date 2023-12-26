@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "weather.h": "c",
+        "array_helpers.h": "c",
+        "weather_utils.h": "c",
+        "gdb.C": "cpp"
+    }
+}
